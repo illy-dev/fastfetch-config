@@ -9,4 +9,4 @@
 ## How to install
 1. Install [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 2. ``git clone https://github.com/illy-dev/fastfetch-config/ fastfetch``
-3. Move the folder to ``~/.config/``or ``~/.local/share/``
+3. Move the folder to ``~/.config/`` or ``~/.local/share/``
