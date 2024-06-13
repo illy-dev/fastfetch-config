@@ -1,2 +1,2 @@
 # fastfetch-config
-My Fastfetch configuration
+Preview:
